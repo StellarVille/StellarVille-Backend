@@ -1,4 +1,4 @@
-# StellarVille Backend — Technical Architecture
+# StellarVille Backend: Technical Architecture
 
 ---
 

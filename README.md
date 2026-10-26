@@ -1,4 +1,4 @@
-# StellarVille — Backend 🔌🌍
+# StellarVille: Backend 🔌🌍
 
 > **MCP Gateway for External AI Agents, World State Engine & Sponsor API**
 
